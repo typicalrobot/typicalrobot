@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## 💫 About Me:
-I'm currently working on wrangling data into descriptive, diagnostic, predictive, and prescriptive.<br>My learning goals include web development. <br>I am looking to collaborate on all things coding! <br>Fun fact: I love anime, music, legos and gaming
+I'm currently working on wrangling data into descriptive, diagnostic, predictive, and prescriptive categories.<br>My learning goals include web development. <br>I am looking to collaborate on all things coding! <br>Fun fact: I love anime, music, legos and gaming
 
 
 ## 🌐 Socials:
